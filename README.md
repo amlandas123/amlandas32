@@ -1,1 +1,3 @@
-# amlandas32
+# maven-project
+
+Simple Maven Project
